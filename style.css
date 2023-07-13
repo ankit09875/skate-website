@@ -1,0 +1,95 @@
+.jumbotron {
+    text-align: center;
+    margin-top: 53px;
+    margin-bottom: -57px;
+}
+.jumbotron h1{
+    font-weight:500;
+}
+.jumbotron p{
+    font-size: 2rem;
+    margin-top: 12px;
+}
+
+.carousel-item {
+    height: 550px;
+    margin-top: 70px;
+}
+.sectionlight{
+    background-color:#eceeef;
+    padding: 1em;
+}
+.sectiondark{
+    background-color:#cccccc;
+    padding: 2rem;
+}
+.sectiondark img{
+    border-radius: 100px;
+    margin-top: -11px;
+}
+.sectiondark p{
+    font-size: 1.5rem;
+    margin-top: 23px;
+    margin-left: 11px;
+}
+button{
+    margin-top: 15px;
+    display: block;
+    margin: auto;
+    font-size: 1.4rem;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 2px 14px;
+}
+button:hover{
+    background-color: rgb(24, 16, 16);
+    color: white;
+}
+h5.modal-title{
+    margin: auto;
+    font-size: 1.7rem;
+}
+.formwrapper{
+    padding: 2rem;
+    font-weight: bold;
+}
+.img-fluidmodal{
+    width: 100%;
+    height: 200px;
+}
+.imgcenter{
+    margin: auto;
+    display: block;
+    height: 300px;
+}
+.btncentrer{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    width: 51%;
+}
+.img360{
+    width: 318px;
+}
+footer{
+    background-color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.image-foot{
+    height: 100%;
+    width: 300px;
+   padding: 5px;
+}
+.socialwrapper{
+    margin:auto;
+   
+}
+.fa{
+    margin: 7px;
+    cursor: pointer;
+}
